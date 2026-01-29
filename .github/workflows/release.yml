@@ -27,6 +27,7 @@ jobs:
         token: ${{ secrets.GH_TOKEN }}
     - name: Configure Git
       run: |
+        git config --global --add safe.directory /__w/spectral/spectral
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
     - name: Cached dependencies
