@@ -1,3 +1,17 @@
+# @stoplight/spectral-cli [6.15.0](https://github.com/stoplightio/spectral/compare/@stoplight/spectral-cli-6.14.3...@stoplight/spectral-cli-6.15.0) (2025-04-22)
+
+
+### Features
+
+* **core:** add documentUrl to JS api and cli formatters ([#2443](https://github.com/stoplightio/spectral/issues/2443)) ([e787728](https://github.com/stoplightio/spectral/commit/e78772809b5b1fd5fa143d383c3eae957112e134))
+
+## @stoplight/spectral-cli [6.14.3](https://github.com/stoplightio/spectral/compare/@stoplight/spectral-cli-6.14.2...@stoplight/spectral-cli-6.14.3) (2025-03-07)
+
+
+### Bug Fixes
+
+* **deps:** update spectral-core in cli ([35687cd](https://github.com/stoplightio/spectral/commit/35687cd4bba4411e716a947984d17806a4784763))
+
 ## @stoplight/spectral-cli [6.14.2](https://github.com/stoplightio/spectral/compare/@stoplight/spectral-cli-6.14.1...@stoplight/spectral-cli-6.14.2) (2024-11-19)
 
 
