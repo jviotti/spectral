@@ -109,7 +109,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v5.0.1
-    - uses: sourcemeta/jsonschema@v6.0.3
+    - uses: sourcemeta/jsonschema@v7.0.2
     - run: jsonschema metaschema --verbose packages/core/src/ruleset/meta/*.json
     - run: jsonschema lint --verbose packages/core/src/ruleset/meta/*.json
 
